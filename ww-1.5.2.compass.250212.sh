@@ -1,9 +1,9 @@
 # watershed-workflow
-# for COMPASS - 2025Jan
+# for COMPASS - 2025Aug
 
 mamba activate watershed_workflow_1.5.0_25Jan
 
-source /home/xiao284/set_ats_env/ats-1.5.compass.25jan.sh
+source /home/xiao284/set_ats_env/ats-1.5.2.compass.250212.sh
 
 #module unload python
 #For WW, use the python from miniforge
